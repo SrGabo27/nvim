@@ -1,2 +1,2 @@
-# nvim
+# NEOVIM
 My neovim configuration 

@@ -30,4 +30,4 @@ so ~/.config/nvim/configs/plugins.vim
 so ~/.config/nvim/configs/plugins-config.vim
 
 "-- set theme
-colorscheme everforest
+colorscheme tokyonight 

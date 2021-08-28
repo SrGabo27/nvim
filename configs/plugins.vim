@@ -7,6 +7,7 @@ Plug 'sainnhe/gruvbox-material'
 Plug 'ghifarit53/tokyonight-vim'
 Plug 'junegunn/seoul256.vim'
 Plug 'sainnhe/everforest'
+Plug 'shinchu/lightline-gruvbox.vim'
 
 "-------------- IDE
 Plug 'glepnir/dashboard-nvim'
@@ -14,6 +15,7 @@ Plug 'nvim-lua/popup.nvim'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
 
+Plug 'junegunn/goyo.vim'
 "--- Navigation
 Plug 'easymotion/vim-easymotion'
 Plug 'scrooloose/nerdtree'
@@ -31,6 +33,7 @@ Plug 'https://github.com/adelarsq/vim-matchit'
 Plug 'mg979/vim-visual-multi', {'branch': 'master'}
 Plug 'preservim/nerdcommenter'
 Plug 'dense-analysis/ale'
+Plug 'codota/tabnine-vim'
 
 "--- Indicator bar
 " Plug 'vim-airline/vim-airline'

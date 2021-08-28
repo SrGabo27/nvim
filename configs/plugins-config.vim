@@ -9,6 +9,7 @@ endif
 so ~/.config/nvim/configs/appearence/nerdtree-config.vim
 so ~/.config/nvim/configs/appearence/lightline-config.vim
 so ~/.config/nvim/configs/appearence/dashboard-config.vim
+so ~/.config/nvim/configs/appearence/zen-config.vim
 ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
 "<<<<<<<<<<<<<<<<<<<<<<<<<<<< Intelligence >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
 so ~/.config/nvim/configs/intelligence/ale-config.vim

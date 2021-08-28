@@ -1,6 +1,6 @@
 "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< LightLine >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
 let g:lightline = {
-    \ 'colorscheme': 'deus',
+    \ 'colorscheme': 'tokyonight',
     \ 'active': {
     \   'left': [ [ 'mode', 'paste' ],
     \             [ 'filetype', 'filename', 'modified', 'linter_checking', 'linter_errors', 'linter_warnings', 'linter_infos', 'linter_ok' ] ],

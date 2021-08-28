@@ -20,16 +20,16 @@ let g:ale_sign_warning = '.'
 let g:ale_linters = {
       \'python': ['flake8', 'pylint'],
       \'javascript': ['eslint'],
-      \'typescript': ['eslint', 'tsserver', 'prettier'],
+      \'typescript': ['typescript-eslint'],
       \'cs': ['OmniSharp'],
       \}
 let g:ale_fixers = {
-      \'javascript': ['prettier'],
-      \'json': ['prettier'],
+      \'javascript': ['eslint'],
       \'typescript': ['prettier'],
       \'python': ['black','yapf'],
       \'html': ['prettier'],
       \'cs': ['uncrustify'],
+      \'css': ['prettier'],
       \}
 
 set statusline=%{LinterStatus()}

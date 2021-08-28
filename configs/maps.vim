@@ -9,6 +9,7 @@ let g:vcoolor_map = "<.c>"
 nmap <Leader>m <Plug>(easymotion-s2)
 nmap <Leader>nt :NERDTreeFind<CR>
 nmap <Leader>fo :Prettier<CR>
+nmap <Leader>go :Goyo 150<CR>
 nmap <Leader>foo :OmniSharpCodeFormat<CR>
 nmap <Leader>do :OmniSharpDocumentation<CR>
 imap ,e <ESC>
